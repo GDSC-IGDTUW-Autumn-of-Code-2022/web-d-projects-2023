@@ -4,6 +4,8 @@
   <img src= "https://user-images.githubusercontent.com/79600026/200432475-fdd8ba6f-83f9-4faf-9243-d60b2aa17e02.jpg" alt="14" width="350"/>
 </p>
 
+A repository for showcasing your WebDev Projects for the GDSC IGDTUW Autumn of Code program. <br/> 
+You can add any WebDev project you have worked on. Create an issue describing the project you want to contribute, wait for it to get assigned to you and contribute!
 
 ## CONTRIBUTING TO THIS PROJECT!
 
